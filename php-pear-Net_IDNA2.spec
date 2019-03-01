@@ -3,12 +3,12 @@
 %define		pearname	Net_IDNA2
 Summary:	%{pearname} - Punycode encoding and decoding
 Name:		php-pear-Net_IDNA2
-Version:	0.1.1
-Release:	2
+Version:	0.2.0
+Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	d998750a832d6d1487c2c1acc4a7d439
+# Source0-md5:	9da0e1dc77032cd8af59b50a2a02ca31
 URL:		http://pear.php.net/package/Net_IDNA2/
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
