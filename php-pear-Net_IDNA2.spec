@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		status		beta
 %define		pearname	Net_IDNA2
 Summary:	%{pearname} - Punycode encoding and decoding
